@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MusicPlayer_react/static/css/main.d5d00618.chunk.css",
+    "main.js": "/MusicPlayer_react/static/js/main.4400f383.chunk.js",
+    "main.js.map": "/MusicPlayer_react/static/js/main.4400f383.chunk.js.map",
+    "runtime-main.js": "/MusicPlayer_react/static/js/runtime-main.9425bbeb.js",
+    "runtime-main.js.map": "/MusicPlayer_react/static/js/runtime-main.9425bbeb.js.map",
+    "static/css/2.6d261602.chunk.css": "/MusicPlayer_react/static/css/2.6d261602.chunk.css",
+    "static/js/2.ab421405.chunk.js": "/MusicPlayer_react/static/js/2.ab421405.chunk.js",
+    "static/js/2.ab421405.chunk.js.map": "/MusicPlayer_react/static/js/2.ab421405.chunk.js.map",
+    "static/js/3.2b68d85a.chunk.js": "/MusicPlayer_react/static/js/3.2b68d85a.chunk.js",
+    "static/js/3.2b68d85a.chunk.js.map": "/MusicPlayer_react/static/js/3.2b68d85a.chunk.js.map",
+    "index.html": "/MusicPlayer_react/index.html",
+    "static/css/2.6d261602.chunk.css.map": "/MusicPlayer_react/static/css/2.6d261602.chunk.css.map",
+    "static/css/main.d5d00618.chunk.css.map": "/MusicPlayer_react/static/css/main.d5d00618.chunk.css.map",
+    "static/js/2.ab421405.chunk.js.LICENSE.txt": "/MusicPlayer_react/static/js/2.ab421405.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9425bbeb.js",
+    "static/css/2.6d261602.chunk.css",
+    "static/js/2.ab421405.chunk.js",
+    "static/css/main.d5d00618.chunk.css",
+    "static/js/main.4400f383.chunk.js"
+  ]
+}
