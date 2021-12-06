@@ -2,7 +2,7 @@
 This is a personal project.
 I build this projects as part of Simon Edwin 'React Creative Course'.
 
-Techloangy I used:
+Technology I used:
 React,
 Css.
 
