@@ -8,8 +8,10 @@ React, Sass, Jason DB.
 I built this projects as part of Simon Edwin 'React Creative Course'.
 I loved working on this projects.
 
+Amazing drawing and music by https://chillhop.com/
+
 # Front-end
-Technology I used: React, Sass, Jason DB.
+Technology I used: React, Sass, Json DB.
 
 * Skip back or forward, play and pause music.
 
